@@ -9,4 +9,4 @@ The SPARSE codec uses MDCT (Modified Discrete Cosine Transform) functions from h
 
 See main_*.m for more information
 
-mikael.mieskolainen@cern.ch, 2011
+Mikael Mieskolainen, 2011
