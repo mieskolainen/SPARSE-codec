@@ -9,4 +9,4 @@ SPARSE codec requires MDCT (Modified Discrete Cosine Transform) functions from h
 
 See main_*.m for more information
 
-Mikael Mieskolainen, 2011
+Mikael Mieskolainen, SGN-4200 course project, TUT, 2011
