@@ -5,7 +5,7 @@
 1. SPARSE signal compression codec based on K-SVD and Orthogonal Matching Pursuit.
 2. An implementation of Code-Excited Linear Prediction (CELP) codec.
 
-SPARSE codec requires MDCT (Modified Discrete Cosine Transform) functions from http://www.ee.columbia.edu/~marios/mdct/, Marios Athineos (c) 2002 by Columbia University, included in mdctlib folder.
+SPARSE codec requires MDCT (Modified Discrete Cosine Transform) functions from http://www.ee.columbia.edu/~marios/mdct/, included in mdctlib folder.
 
 See main_*.m for more information
 
